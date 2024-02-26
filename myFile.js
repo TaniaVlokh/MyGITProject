@@ -1,0 +1,1 @@
+console.log('GIT HOMEWORK01 - task 2');
